@@ -1,5 +1,6 @@
 # Computer Network Organization
-This  repository contains lecture notes and labs for my computer network organization class at UTA for Fall 2020. 
+This couse goes over design and analysis of computer networks. Emphasis on the OSI architecture but discusses other schemes (e.g., ARPAnet). Data link control, local networks, protocols/architectures, network access protocols, transport protocols, internetworking, and ISDN.
+
 ## Lecture Notes
 The lecture notes are a good source to revise on basic network layer concepts. It also contains some practice question with answers to test yourself. 
 ## Labs
